@@ -1,14 +1,14 @@
 ---
 pr:
-  lifecycleLabels:
-    ignoreDrafts: false
-    labels:
-      reviewRequired: "status: needs review"
-      changesRequested: "status: changes requested"
-      moreReviewsRequired: "status: needs more reviews"
-      reviewStarted: "status: review started"
-      approved: "status: approved"
-      merged: "status: merged"
+  # lifecycleLabels:
+  #   ignoreDrafts: false
+  #   labels:
+  #     reviewRequired: "status: needs review"
+  #     changesRequested: "status: changes requested"
+  #     moreReviewsRequired: "status: needs more reviews"
+  #     reviewStarted: "status: review started"
+  #     approved: "status: approved"
+  #     merged: "status: merged"
   conventionalCommits:
     rules:
   conventionalTitle:
